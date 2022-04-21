@@ -1,0 +1,13 @@
+{
+  "name": "j4u-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@notionhq/client": "^1.0.4",
+    "dotenv": "^16.0.0",
+    "node-cron": "^3.0.0",
+    "telegraf": "^4.7.0"
+  }
+}
